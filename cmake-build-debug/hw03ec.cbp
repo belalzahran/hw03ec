@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hw03ec"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw03ec">
+				<Option output="/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/hw03ec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw03ec"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw03ec/fast">
+				<Option output="/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/hw03ec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw03ec/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/bz/Desktop/VsCode/hw03ec/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bz/Desktop/VsCode/hw03ec/ExtendedTime.cpp">
+			<Option target="hw03ec"/>
+		</Unit>
+		<Unit filename="/Users/bz/Desktop/VsCode/hw03ec/ExtendedTime.h">
+			<Option target="hw03ec"/>
+		</Unit>
+		<Unit filename="/Users/bz/Desktop/VsCode/hw03ec/Invoice.cpp">
+			<Option target="hw03ec"/>
+		</Unit>
+		<Unit filename="/Users/bz/Desktop/VsCode/hw03ec/Invoice.h">
+			<Option target="hw03ec"/>
+		</Unit>
+		<Unit filename="/Users/bz/Desktop/VsCode/hw03ec/Time.cpp">
+			<Option target="hw03ec"/>
+		</Unit>
+		<Unit filename="/Users/bz/Desktop/VsCode/hw03ec/Time.h">
+			<Option target="hw03ec"/>
+		</Unit>
+		<Unit filename="/Users/bz/Desktop/VsCode/hw03ec/hw03ec.cpp">
+			<Option target="hw03ec"/>
+		</Unit>
+		<Unit filename="/Users/bz/Desktop/VsCode/hw03ec/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

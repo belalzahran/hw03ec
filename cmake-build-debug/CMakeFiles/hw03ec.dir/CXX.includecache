@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bz/Desktop/VsCode/hw03ec/ExtendedTime.cpp
+Time.h
+/Users/bz/Desktop/VsCode/hw03ec/Time.h
+ExtendedTime.h
+/Users/bz/Desktop/VsCode/hw03ec/ExtendedTime.h
+
+/Users/bz/Desktop/VsCode/hw03ec/ExtendedTime.h
+Time.h
+/Users/bz/Desktop/VsCode/hw03ec/Time.h
+
+/Users/bz/Desktop/VsCode/hw03ec/Time.h
+ostream
+-
+iostream
+-
+
